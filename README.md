@@ -1,2 +1,2 @@
-# VT_portfolio
+# VT_Portfolio
 My portfolio
